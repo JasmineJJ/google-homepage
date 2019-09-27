@@ -1,0 +1,2 @@
+this project is gonna going to help understand more the fondamentales of html and css and also how to use them maube also a little JavaScript!
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)    
